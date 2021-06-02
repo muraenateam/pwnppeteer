@@ -31,7 +31,7 @@ Clone this repo and then install _chrome-aws-lambda_
 npm install chrome-aws-lambda --save-prod
 ```
 
-Install also _puppeteer_ version base on the [version](https://github.com/alixaxel/chrome-aws-lambda#versioning)
+Install also _puppeteer_ version base on the chrome-aws-lambda [version](https://github.com/alixaxel/chrome-aws-lambda#versioning)
 
 ```bash
 npm install puppeteer-core@3.1.* --save-prod
